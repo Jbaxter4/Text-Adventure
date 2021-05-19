@@ -1,0 +1,90 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/GameObject.h
+string
+-
+forward_list
+-
+list
+-
+
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/Room.cpp
+Room.h
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/Room.h
+wordwrap.h
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/wordwrap.h
+State.h
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/State.h
+iostream
+-
+
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/Room.h
+string
+-
+forward_list
+-
+list
+-
+GameObject.h
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/GameObject.h
+
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/State.cpp
+iostream
+-
+State.h
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/State.h
+
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/State.h
+Room.h
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/Room.h
+
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/main.cpp
+iostream
+-
+iomanip
+-
+memory
+-
+iterator
+-
+vector
+-
+forward_list
+-
+sstream
+-
+fstream
+-
+Room.h
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/Room.h
+wordwrap.h
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/wordwrap.h
+State.h
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/State.h
+strings.h
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/strings.h
+
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/strings.h
+string
+-
+
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/wordwrap.cpp
+cstdint
+-
+afxres.h
+-
+iterator
+-
+iostream
+-
+
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/wordwrap.h
+string
+-
+

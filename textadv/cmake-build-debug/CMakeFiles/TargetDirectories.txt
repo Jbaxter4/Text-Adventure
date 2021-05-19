@@ -1,0 +1,3 @@
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/cmake-build-debug/CMakeFiles/textadv.dir
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Baxte/Documents/Work/Uni Work + Placement/Second Year/COMP5004 - Software Dev with C & C++/Coursework/Assignment/textadv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
